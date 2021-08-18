@@ -1,7 +1,7 @@
 # melody - учебный проект GloAcademy
 ## Проект выполнила Яна Кустова
 
-###Технологии:
+##Технологии:
 - html
 - Css
-- javaScript
+- JavaScript
