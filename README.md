@@ -1,2 +1,2 @@
-# melody
-учебный проект GloAcademy
+# melody - учебный проект GloAcademy
+## Проект выполнила Яна Кустова
